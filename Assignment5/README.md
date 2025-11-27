@@ -1,6 +1,6 @@
 # Campus Energy Consumption Dashboard
 
-**Author:** Sneha Joshi  
+**Author:** Nishant Raghav  
 **Course:** Programming for Problem Solving using Python  
 **Assignment:** Capstone Project - End-to-End Energy Consumption Analysis
 
